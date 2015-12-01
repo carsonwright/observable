@@ -7,7 +7,7 @@ Adds Observer support for the given object el or if the argument is empty a new 
     function Car() {
     
       // Make Car instances observable
-      riot.observable(this)
+      Observable(this)
     
       // listen to 'start' event
       this.on('start', function() {
