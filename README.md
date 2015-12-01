@@ -1,4 +1,4 @@
-# observable
+# Observable
 API · Observable
 Observable(el)
 
