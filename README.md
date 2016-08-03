@@ -1,4 +1,4 @@
-# Observable
+# Observable (Extracted From Riot.JS)
 API · Observable
 Observable(el)
 
